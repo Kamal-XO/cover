@@ -137,11 +137,11 @@ cover.html
 
 ## Output:
 
-![output](./bak.jpeg)
+![output](./bak.png)
 
 ## HTML VALIDATION :
 
-![output](./htvl.jpeg)
+![output](./htvl.png)
 
 ## Result:
-Write your result
+The program for designing book cover page using HTML and CSS is executed successfully
